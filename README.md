@@ -1,6 +1,7 @@
 
-<img src="./img/img1.png" alt="img1.png/"> <br>
-<img src="./img/img2.png" alt="img2.png"/> <br>
+<img src="./img/img1.png" alt="img_1.png"> <br>
+<img src="./img/img2.png" alt="img_2.png"> <br>
+<img src="./img/img2.png" alt="img_3.png"> <br>
 
 - index.html : Establishes the core HTML structure for the dual-panel layout, ensuring semantic separation of content. <br>
 
