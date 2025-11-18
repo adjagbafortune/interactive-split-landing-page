@@ -11,7 +11,7 @@ body {
 h1 {
   font-size: 100px;
   color: aliceblue;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(161, 161, 161, 0.3);
   letter-spacing: 4px;
 }
 
@@ -41,16 +41,14 @@ h1 {
 .split.left {
   position: absolute;
   left: 0;
-  background-color: pink;
-  background-image: url("https://www.pexels.com/fr-fr/photo/personne-portant-des-air-jordan-1-blanc-et-bleu-1102777/");
+  background-color: #003057;
   background-size: cover;
 }
 
 .split.right {
   position: absolute;
   right: 0;
-  background-color: lightblue;
-  background-image: url("https://www.pexels.com/fr-fr/photo/jaune-chaussures-nike-baskets-9546375/");
+  background-color: black;
   background-size: cover;
 }
 
